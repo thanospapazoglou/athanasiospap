@@ -1,7 +1,7 @@
 ## Hey 👋 <br/>Thanos here<br/><img src="https://github.com/athanasiospap/athanasiospap/blob/master/assets/Papazoglou_Animoji.png" alt="Animoji" width="75"/>
 
 🎓 I'm an Electrical and Computer Engineer.  
-👨‍💻 Currently, working as an ** iOS developer**.   
+👨‍💻 Currently, working as an **🍏 iOS developer**.   
 
 
 ##### Contact info:
