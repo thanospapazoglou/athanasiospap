@@ -1,4 +1,4 @@
-## Hey 👋 <br/><br/><img src="https://github.com/athanasiospap/athanasiospap/blob/master/assets/Papazoglou_Animoji.png" alt="Animoji" width="75"/> Thanos here<br/>
+## Hey 👋 <br/><br/><img src="https://github.com/athanasiospap/athanasiospap/blob/master/assets/Papazoglou_Memoji.png" alt="Memoji" width="75"/> Thanos here<br/>
 
 🎓 I'm an Electrical and Computer Engineer.  
 👨‍💻 Currently, working as an ** iOS developer**.   
