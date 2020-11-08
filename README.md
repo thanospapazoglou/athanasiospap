@@ -1,17 +1,18 @@
-## Hey 👋 <br/><br/><img src="https://github.com/athanasiospap/athanasiospap/blob/master/assets/Papazoglou_Memoji.png" alt="Memoji" width="75"/> Thanos here<br/>
+## Hey 👋 Thanos here!
 
 🎓 I'm an Electrical and Computer Engineer.  
-👨‍💻 Currently, working as an **🍏 iOS developer**.   
+👨‍💻 Currently, working as an **🍏 iOS developer** at SingularLogic S.A.
 
+Also, my latest indie creation is <b>[QRiFi](https://qrifi.app)</b>. The missing feature for WiFi sharing in iOS 😲. 
 
 ##### Contact info:
-[🐦Twitter](https://twitter.com/A_Ch_Papazoglou)  
-[🔗Linkedin](https://www.linkedin.com/in/athanasios-papazoglou-2781a5134/)
+[🐦 Twitter](https://twitter.com/A_Ch_Papazoglou)  
+[🔗 Linkedin](https://www.linkedin.com/in/athanasios-papazoglou-2781a5134/)
 
 
-##### Also, email me at:
-[🔒athanasios.papazoglou@protonmail.ch](mailto:athanasios.papazoglou@protonmail.ch)   
-[✉️athanasios.ch.papazoglou@gmail.com](mailto:athanasios.ch.papazoglou@gmail.com)
+##### Feel free to email me at:
+[🔒 athanasios.papazoglou@protonmail.ch](mailto:athanasios.papazoglou@protonmail.ch)   
+[✉️ athanasios.ch.papazoglou@gmail.com](mailto:athanasios.ch.papazoglou@gmail.com)
 
 <!--
 **athanasiospap/athanasiospap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
