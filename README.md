@@ -1,6 +1,6 @@
 ## Hey 👋 Thanos here!
 
-🎓 I'm an Electrical and Computer Engineer.  
+🎓 I'm an Electrical and Computer Engineer, M.Eng.  
 👨‍💻 Currently, working as an **🍏 iOS developer** at SingularLogic S.A.
 
 Also, my latest indie creation is <b>[QRiFi](https://qrifi.app)</b>. The missing feature for WiFi sharing in iOS 😲. 
