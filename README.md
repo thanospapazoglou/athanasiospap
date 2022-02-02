@@ -1,7 +1,7 @@
 ## Hey 👋 Thanos here!
 
 🎓 I'm an Electrical and Computer Engineer, M.Eng.  
-👨‍💻 Currently, working as an **🍏 iOS developer** at Epsilon SingularLogic S.A.
+👨‍💻 Currently, working as an **🍏 iOS engineer** at [Novibet](https://novibet.com)
 
 Also, my latest indie creation is <b>[QRiFi](https://qrifi.app)</b>. The missing feature for WiFi sharing in iOS 😲. 
 
