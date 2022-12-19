@@ -14,7 +14,7 @@ final class Thanos {
                            "Tennis": "🎾", 
                            "Reading": "📚"]
                            
-    static func greetings() {
+    func greetings() {
         print("Hello world!")
     }
 }
