@@ -1,6 +1,6 @@
 ## Hey 👋 Thanos here!
 
-[🐦 Twitter](https://twitter.com/A_Ch_Papazoglou)&emsp;|&emsp;[🔗 Linkedin](https://www.linkedin.com/in/athanasios-papazoglou/)&emsp;|&emsp;[📜 Résumé](https://www.papazoglou.read.cv)
+[🐦 Twitter](https://twitter.com/A_Ch_Papazoglou)&emsp;|&emsp;[🔗 Linkedin](https://www.linkedin.com/in/athanasios-papazoglou/)&emsp;|&emsp;[📜 Résumé](https://papazoglou.read.cv)
 
 Latest indie creation **[QRiFi](https://qrifi.app)**
 – The missing feature for sharing your WiFi in iOS
