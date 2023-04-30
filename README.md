@@ -11,7 +11,7 @@ final class Thanos {
     let studies = "Electrical and Computer Engineering, M.Eng."
     let work = " iOS engineer x Novibet"
     let location = "🇬🇷"
-    let hobbies = ["Traveling": "🇮🇹🇻🇦🇬🇧🇵🇱🇩🇪🇫🇷🇵🇹🇪🇸🇭🇺🇦🇹🇧🇬🇷🇸🇨🇿🇲🇰🇹🇷", 
+    let hobbies = ["Traveling": "🇮🇹🇻🇦🇬🇧🇵🇱🇩🇪🇫🇷🇵🇹🇪🇸🇭🇺🇦🇹🇧🇬🇷🇸🇨🇿🇲🇰🇹🇷🇷🇴🇲🇹🇸🇰", 
                    "Sports": "🎾 & 🏀"]
                            
     func greetings() {
